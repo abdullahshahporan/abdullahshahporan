@@ -51,16 +51,17 @@ I'm a passionate Computer Science & Engineering student at **Khulna University O
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahshahporan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=abdullahshahporan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abdullahshahporan&theme=dark&hide_border=false)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahshahporan&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abdullahshahporan&theme=algolia&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahshahporan&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=abdullahshahporan&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahshahporan&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Shahporan's GitHub Activity Graph" />
+
+<br />
 
 ---
 
