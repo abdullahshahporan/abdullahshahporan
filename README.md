@@ -12,7 +12,7 @@
 
 <!-- Social badges row -->
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahshahporan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=About.me&logoColor=white)](https://abdullahshahporan.github.io/portfolio-website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=About.me&logoColor=white)](https://abdullahmdshahporan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-md-shahporan)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abdullahshahporan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdullahmd.shahporan)
@@ -22,7 +22,7 @@
 <!-- Profile view counter -->
 <img src="https://komarev.com/ghpvc/?username=abdullahshahporan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/abdullahshahporan?label=Followers&style=social)](https://github.com/abdullahshahporan)
+
 
 </div>
 
@@ -165,7 +165,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-md-shahporan)
 [![Email](https://img.shields.io/badge/Gmail-Drop%20a%20mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahshahporan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20site-00C7B7?style=for-the-badge&logo=About.me&logoColor=white)](https://abdullahshahporan.github.io/portfolio-website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20site-00C7B7?style=for-the-badge&logo=About.me&logoColor=white)]([https://abdullahshahporan.github.io/portfolio-website/](https://abdullahmdshahporan.vercel.app/))
 [![Facebook](https://img.shields.io/badge/Facebook-Follow%20me-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abdullahshahporan)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdullahmd.shahporan)
 
